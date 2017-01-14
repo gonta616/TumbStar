@@ -1,0 +1,176 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 38,
+					"ch": 28
+				},
+				"to": {
+					"line": 38,
+					"ch": 30
+				}
+			},
+			"type": "number",
+			"name": "MarginLeft",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 39,
+					"ch": 33
+				},
+				"to": {
+					"line": 39,
+					"ch": 42
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 42,
+					"ch": 23
+				},
+				"to": {
+					"line": 42,
+					"ch": 28
+				}
+			},
+			"type": "boolean",
+			"name": "AutoFocus",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 68,
+					"ch": 23
+				},
+				"to": {
+					"line": 68,
+					"ch": 42
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "SenderName",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 71,
+					"ch": 26
+				},
+				"to": {
+					"line": 71,
+					"ch": 30
+				}
+			},
+			"type": "boolean",
+			"name": "DisplayNames",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 73,
+					"ch": 23
+				},
+				"to": {
+					"line": 73,
+					"ch": 27
+				}
+			},
+			"type": "boolean",
+			"name": "ParseText",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 78,
+					"ch": 38
+				},
+				"to": {
+					"line": 78,
+					"ch": 43
+				}
+			},
+			"type": "boolean",
+			"name": "IsLoadingEarlierMessages",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 80,
+					"ch": 27
+				},
+				"to": {
+					"line": 80,
+					"ch": 29
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "TypingMessage",
+			"group": "GIFTED MESSENGER"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 86,
+					"ch": 19
+				},
+				"to": {
+					"line": 86,
+					"ch": 22
+				}
+			},
+			"type": "number",
+			"name": "Width",
+			"max": 600,
+			"group": "IMAGE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 87,
+					"ch": 20
+				},
+				"to": {
+					"line": 87,
+					"ch": 23
+				}
+			},
+			"type": "number",
+			"name": "Height",
+			"max": 600,
+			"group": "IMAGE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 89,
+					"ch": 22
+				},
+				"to": {
+					"line": 89,
+					"ch": 31
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "ResizeMode",
+			"type": "string",
+			"name": "ResizeMode",
+			"group": "IMAGE"
+		}
+	]
+}
